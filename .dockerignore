@@ -1,0 +1,11 @@
+# exclude hidden dirs .git etc.
+.*
+*.iml
+gradle
+src/test
+# exclude build binaries
+build/*
+Dockerfile
+*.md
+gradlew
+gradlew.bat
